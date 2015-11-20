@@ -449,17 +449,6 @@
 			position: relative;
 		}
 
-		.action_intro_inner p:nth-child(2) {
-			margin-top: 300px;
-		}
-
-		.action_photo {
-			position: absolute;
-			display: block;
-			top: 120px;
-			margin: 0 auto 39px;
-		}
-
 		.more {
 			float: right;
 			width: 216px;
