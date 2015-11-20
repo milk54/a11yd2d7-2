@@ -421,6 +421,10 @@
 			padding-left: 10%;
 		}
 
+		h1 img {
+			width: 75%;
+		}
+
 		nav ul li {
 			float: none;
 			margin-bottom: 10px;
